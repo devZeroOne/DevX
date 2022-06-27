@@ -1,0 +1,30 @@
+[
+    {
+        "category":"Mindset",
+        "numberOfPost":10 
+    },
+    {
+        "category":"Technology",
+        "numberOfPost":16 
+    },
+    {
+        "category":"Science",
+        "numberOfPost":21 
+    },
+    {
+        "category":"Space",
+        "numberOfPost":9 
+    },
+    {
+        "category":"Future",
+        "numberOfPost":7 
+    },
+    {
+        "category":"Minimalism",
+        "numberOfPost": 3
+    },
+    {
+        "category":"World",
+        "numberOfPost":37 
+    }
+]

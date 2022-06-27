@@ -1,0 +1,31 @@
+.activeNav{
+    color:#e50b4f;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 0 10px;
+}
+.defaultNav{
+    color:#eee;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 0 10px;
+}
+.loginHeader{
+    font-size: 15px;
+    font-weight:500;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 20px;
+}
+
+.headerSubscribe{
+    font-size: 15px;
+    font-weight:500;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 30px; 
+    background: #e50b4f;
+    border-radius: 20px;
+}
+
+

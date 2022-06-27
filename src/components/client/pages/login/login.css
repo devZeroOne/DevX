@@ -1,0 +1,52 @@
+
+.loginBody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    /* color: #fff; */
+}
+
+
+.loginPageCard{
+    background: #01163a;
+    height:400px;
+    width: 30%;
+    border-radius:10px;
+    position: relative;
+}
+
+.logoDiv{
+    text-align:center;
+}
+
+.loginPageCard form{
+    padding:0 20px;
+}
+
+.loginPageCard form div label{
+    padding:10px 0px 5px 0;
+    color: #e50b4f;
+    font: size 16px;
+    font-weight:500;
+}
+.loginPageCard form div input{
+   width: 100%;
+   border-radius: 5px;
+   border: none;
+   padding: 5px;
+   outline: none;
+}
+
+.toggleBox{
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+    left: 100px;
+
+}
+.toggleBox p span{
+    color: #f9d400;
+    text-align: center;
+    cursor: pointer;
+}

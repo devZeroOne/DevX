@@ -1,0 +1,26 @@
+.sliderContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.sliderText {
+  display: flex;
+  align-items: center;
+}
+.sliderText h1 {
+  color: #f2f2f2;
+  font-weight: 700;
+}
+.sliderImage img {
+  width: 100%;
+  border-radius: 15px;
+}
+
+@media only screen and (max-width: 768px) {
+  .sliderContainer {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .sliderImage img {
+    border-radius: 5px;
+  }
+}

@@ -1,0 +1,11 @@
+.logoText{
+    /* background: #e50b4f; */
+    background: linear-gradient(to right, #e50b4f 0%,#f9d400 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 55px!important;
+    font-weight: 700;
+    text-decoration: none;
+
+
+}

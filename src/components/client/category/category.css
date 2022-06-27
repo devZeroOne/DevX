@@ -1,0 +1,18 @@
+.categoryTitle{
+    border-bottom: 1px solid #e50b4f;
+    padding-bottom: 10px;
+}
+.categoryCard{
+display:flex;
+justify-content: space-between;
+line-height: 20px;
+}
+
+.categoryCard p{
+  font-size:16px;
+  font-weight:600;
+}
+.categoryCard:hover{
+ color: #e50b4f;
+}
+     
